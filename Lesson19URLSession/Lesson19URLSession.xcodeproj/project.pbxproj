@@ -13,6 +13,7 @@
 		4C03624E2BEB4A40001C5EE9 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 4C03624D2BEB4A40001C5EE9 /* Base */; };
 		4C0362502BEB4A42001C5EE9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C03624F2BEB4A42001C5EE9 /* Assets.xcassets */; };
 		4C0362532BEB4A42001C5EE9 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 4C0362522BEB4A42001C5EE9 /* Base */; };
+		4C03625B2BEB4F1D001C5EE9 /* model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C03625A2BEB4F1D001C5EE9 /* model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4C03624F2BEB4A42001C5EE9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4C0362522BEB4A42001C5EE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4C0362542BEB4A42001C5EE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C03625A2BEB4F1D001C5EE9 /* model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				4C0362462BEB4A40001C5EE9 /* AppDelegate.swift */,
 				4C0362482BEB4A40001C5EE9 /* SceneDelegate.swift */,
 				4C03624A2BEB4A40001C5EE9 /* ViewController.swift */,
+				4C03625A2BEB4F1D001C5EE9 /* model.swift */,
 				4C03624C2BEB4A40001C5EE9 /* Main.storyboard */,
 				4C03624F2BEB4A42001C5EE9 /* Assets.xcassets */,
 				4C0362512BEB4A42001C5EE9 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				4C03624B2BEB4A40001C5EE9 /* ViewController.swift in Sources */,
 				4C0362472BEB4A40001C5EE9 /* AppDelegate.swift in Sources */,
 				4C0362492BEB4A40001C5EE9 /* SceneDelegate.swift in Sources */,
+				4C03625B2BEB4F1D001C5EE9 /* model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
